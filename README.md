@@ -2,5 +2,5 @@
 
 ## used Bootstrap for styling
 
-## source code : https://github.com/kranthi777/FullThrottle
+## source code : https://github.com/kranthi777/f-t-l-task
 
